@@ -1,0 +1,18 @@
+#youtube_link{
+    margin-top: 5%;
+    border: 2px solid blue;
+    height: 65px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#download{
+    position: absolute;
+    left: 85%;
+    /* bottom: 80%; */
+    height: 65px;
+}
+
+/* #searchBtn{
+
+} */
